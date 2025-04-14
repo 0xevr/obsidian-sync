@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new note ubuntu.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new note ubuntu"
+              "title": "Notes"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "50c58faf77802c90",
   "lastOpenFiles": [
-    "OvertheWire Bandit SpeedRun.md",
     "new note ubuntu.md",
+    "OvertheWire Bandit SpeedRun.md",
     "This is a new note.md"
   ]
 }
